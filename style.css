@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.row{
+    background-color: rgb(174, 135, 135);
+    border-radius: 30px;
+    box-shadow: 12px 12px 27px;
+    width: auto;
+    height: 37rem;
+}
+img{
+    width: 120%;
+    height: 37.5rem;
+    border-top-right-radius: 400px;
+    border-bottom-left-radius: 429px;
+}
+.login h1{
+    font-size: 4rem;
+    font-weight: 300;
+}
+.inp{
+    height: 50px;
+    width: 70%;
+    border: none;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: 4px 5px 10px 5px rgba(0, 0, 0, 0.35);
+}
+.fa-brands{
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+}
+.btn1{
+    font-size: 20px;
+    background-size: 70px;
+    padding: 10px;
+    border-radius: 75%;
+    background-color: rgb(229, 171, 47);
+    width: 15rem;
+    height: 60px;
+}
+.btn1:hover{
+    background-color: rgb(255, 180, 127);
+}
+.fa-facebook:hover{
+    color: blue;
+}
+.fa-instagram:hover{
+    color: rgb(237, 80, 193);
+}
+.fa-linkedin:hover{
+    color: blue;
+}
